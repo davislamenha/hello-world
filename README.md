@@ -1,4 +1,4 @@
-![Cubos Academy](https://img.shields.io/badge/CUBOS%20ACADEMY-E5087F?style=for-the-badge) ![Modulo](https://img.shields.io/badge/MODULO%201-111?style=for-the-badge)![Backend](https://img.shields.io/badge/DESENVOLVIMENTO%20DE%20SOFTWARE%20BACKEND-6c5ce7?style=for-the-badge)
+![Cubos Academy](https://img.shields.io/badge/CUBOS%20ACADEMY-E5087F?style=for-the-badge) ![Modulo](https://img.shields.io/badge/MODULO%201-2d3436?style=for-the-badge)![Backend](https://img.shields.io/badge/DESENVOLVIMENTO%20DE%20SOFTWARE%20BACKEND-6c5ce7?style=for-the-badge)
 
 ### Sobre o projeto
 
@@ -24,5 +24,7 @@ Tente fazer o passo a passo abaixo sem consultar as aulas inicialmente. Caso nã
 #### Meta
 
 ![avatar](https://github.com/davislamenha.png?size=200)
-Davis Lamenha Sampaio
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davislamenha/) [![Meu Github](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davislamenha) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davislamenha@gmail.com)
+
+**Davis Lamenha Sampaio**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davislamenha/) [![Meu Github](https://img.shields.io/badge/GitHub-2d3436?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davislamenha) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davislamenha@gmail.com)
