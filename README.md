@@ -1,6 +1,8 @@
-![Cubos Academy](https://img.shields.io/badge/CUBOS%20ACADEMY-E5087F?style=for-the-badge) ![Modulo](https://img.shields.io/badge/MODULO%201-2d3436?style=for-the-badge)![Backend](https://img.shields.io/badge/DESENVOLVIMENTO%20DE%20SOFTWARE%20BACKEND-6c5ce7?style=for-the-badge)
+![Cubos Academy](https://img.shields.io/badge/CUBOS%20ACADEMY-E5087F?style=for-the-badge)![Backend](https://img.shields.io/badge/DESENVOLVIMENTO%20DE%20SOFTWARE%20BACKEND-6c5ce7?style=for-the-badge)
 
 ### Sobre o projeto
+
+![Modulo](https://img.shields.io/badge/MODULO%201-2d3436?style=for-the-badge)![Modulo](https://img.shields.io/badge/SETUP%20DE%20FERRAMENTAS-00b894?style=for-the-badge)
 
 > Exercício da aula de Setup de ferramentas
 
