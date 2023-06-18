@@ -1,4 +1,6 @@
-![Cubos Academy](https://img.shields.io/badge/CUBOS%20ACADEMY-E5087F?style=for-the-badge)![Backend](https://img.shields.io/badge/DESENVOLVIMENTO%20DE%20SOFTWARE%20BACKEND-6c5ce7?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/CUBOS%20ACADEMY-E5087F?style=for-the-badge" alt="Cubos Academy"/><img src="https://img.shields.io/badge/DESENVOLVIMENTO%20DE%20SOFTWARE%20BACKEND-6c5ce7?style=for-the-badge" alt="Backend"/>
+</p>
 
 ### Sobre o projeto
 
